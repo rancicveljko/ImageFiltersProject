@@ -1,0 +1,14 @@
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\obj\Debug\MMSProject.ChannelsDisplayForm.resources
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\obj\Debug\MMSProject.ColorFilterParameters.resources
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\obj\Debug\MMSProject.frmImageFilters.resources
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\obj\Debug\ImageFilters.HistogramDisplayForm.resources
+C:\Users\wexla\source\repos\ImageFilters\ImageFilters\obj\Debug\ImageFilters.CropHistogramParametersForm.resources
